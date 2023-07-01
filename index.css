@@ -54,10 +54,13 @@ main{
 }
 
 .titulo{
-    text-align: center;
+   
     font-family: Arial, Helvetica, sans-serif;
     border: 1px solid red;
+    color red;
     display: inline;
+    text-align: center;
+    margin: auto;
 }
 
 .tarjetas{
@@ -237,6 +240,17 @@ display: flex;
 color: red;
 border: 1px solid red;
 justify-content: space-between;
+
+
+}
+
+.idproducto{
+
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: red;
+  color: aliceblue;
+
 
 
 }
