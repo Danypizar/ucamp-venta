@@ -45,23 +45,20 @@ ul{
     font-weight: 600;
 }
 
-.hypervinculo{
+.hypervinculofb{
     color: white;
-}
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction:row;
+
+
+  }
 
 main{
     padding: 20px;
 }
 
-.titulo{
-   
-    font-family: Arial, Helvetica, sans-serif;
-    border: 1px solid red;
-    color red;
-    display: inline;
-    text-align: center;
-    margin: auto;
-}
+
 
 .tarjetas{
     width: 300px;
@@ -213,10 +210,11 @@ section{
 .oferta{
 
   border: 1px solid blueviolet;
-  display: flex;
-  flex-direction: column;
-
-
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  justify-content: end;
+  margin-left: auto;
+  
 }
 
 .jumbotronarticle{
