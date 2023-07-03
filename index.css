@@ -228,8 +228,7 @@ nav {
 }
 
 .idproducto {
-
-  font-family: Arial, Helvetica, sans-serif;
+ font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   background-color: gray;
   color: aliceblue;
@@ -249,7 +248,7 @@ nav {
 
 .titulo2 {
 
-  color:#000;
+  color: #000;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -265,5 +264,5 @@ nav {
   cursor: pointer;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
-vertical-align: text-top;
+  vertical-align: text-top;
 }

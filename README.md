@@ -16,8 +16,7 @@
   - **e. Footer**
     Sección que incluye todas las áreas del sitio, incluyendo redes sociales.
 
-Este es un [link ](www.google.com).
-Este Sitio [GitHub Pages](https://pages.github.com/).
+Este Sitio [GitHub Pages proyect Venta](https://github.com/Danypizar/ucamp-venta).
 
 ![Planeacion de proyecto ](./assets/tipo.png)hi
 
